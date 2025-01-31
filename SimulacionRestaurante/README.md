@@ -42,28 +42,31 @@ Clona este repositorio en tu máquina local:
 
 ```bash
 git clone https://github.com/tuusuario/simulacion-restaurante.git
+```
 
 ### 2. Compilar el código
 Navega al directorio del proyecto y compílalo usando el siguiente comando (suponiendo que tienes el JDK instalado):
 
 ```bash
 javac simulacionrestaurante/*.java
+```
 
-3. Ejecutar el programa
+### 3. Ejecutar el programa
 Una vez compilado, ejecuta el programa utilizando el siguiente comando:
 
-bash
-Copy
+```bash
 java simulacionrestaurante.SimulacionRestaurante
-4. Salida esperada
+```
+
+### 4. Salida esperada
 El programa imprimirá información sobre los pedidos que se están preparando, el tiempo que tarda en completarse, y finalmente el tiempo total de ejecución de todos los pedidos.
 
 Ejemplo de salida:
-yaml
-Copy
+```bash
 Preparando: Pedido 1 - pool-1-thread-1
 Pedido listo: Pedido 1 - pool-1-thread-1
 Preparando: Pedido 2 - pool-1-thread-2
 Pedido listo: Pedido 2 - pool-1-thread-2
 ...
 Tiempo total de ejecución de todos los pedidos: 20000 ms
+```
