@@ -1,8 +1,8 @@
 # Integrantes del grupo 4
-Jorge B. Mostajo Pedraza
-Evans Balcázar Veizaga
-Shirley E. Pérez Delgadillo
-Rubén Espinoza Orosco
+- **Jorge B. Mostajo Pedraza**
+- **Evans Balcázar Veizaga**
+- **Shirley E. Pérez Delgadillo**
+- **Rubén Espinoza Orosco**
 
 # Proyecto de Simulación de Restaurante
 
